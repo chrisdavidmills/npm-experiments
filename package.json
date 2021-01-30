@@ -1,0 +1,23 @@
+{
+  "name": "npm-experiments",
+  "version": "1.0.0",
+  "description": "experiments with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdavidmills/npm-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdavidmills/npm-experiments/issues"
+  },
+  "homepage": "https://github.com/chrisdavidmills/npm-experiments#readme",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
